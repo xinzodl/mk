@@ -1,0 +1,13 @@
+# Eclipse artifacts, including WTP generated manifests
+**/.classpath
+**/.project
+**/.settings/
+**/.springBeans
+**/.factorypath
+spring-*/src/main/java/META-INF/MANIFEST.MF
+target/
+.idea
+.idea/
+*.iml
+.attach_*
+*.log
